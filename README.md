@@ -11,7 +11,6 @@ Here you can see a bit more of the key parts.<br />
 <a href="https://1.bp.blogspot.com/-4H2n6E9jh7M/WYCuW8GI_NI/AAAAAAAC8t4/vh9y3-rW8TAoU_vQPMgDXDQnSJSmyTRawCKgBGAs/s1600/IMG_20170729_145104.jpg" imageanchor="1"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="https://1.bp.blogspot.com/-4H2n6E9jh7M/WYCuW8GI_NI/AAAAAAAC8t4/vh9y3-rW8TAoU_vQPMgDXDQnSJSmyTRawCKgBGAs/s640/IMG_20170729_145104.jpg" width="640" /></a><br />
 <br />
 I have a <a href="https://www.youtube.com/watch?v=BjpzD4OXuT0">video demonstration on YouTube.</a><br />
-<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/BjpzD4OXuT0?rel=0&amp;showinfo=0" width="640"></iframe><br />
 <br />
 Eventually, if I ever get around to it, I will write an app that lets me control the volume (and perhaps some other features) from my phone.<br />
 <br /></p>
