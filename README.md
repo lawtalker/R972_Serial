@@ -1,5 +1,5 @@
 # R972_Serial
-This is some Red Bear Lab BLE Nano code (requires Arduino core) for controlling Sherwood Newcastle R-972 receiver via its serial port.
+This is some Red Bear Lab BLE Nano code (requires Arduino core) for controlling a Sherwood Newcastle R-972 receiver via its serial port.
 
 <p>In my house, we use our stereo receiver (an R-972) with its many attached speakers to watch television.  The receiver lives on a shelf behind our couch. The contraption below allows us to control the volume on the receiver using a knob rather than relying on a remote control.<br />
 <a href="https://4.bp.blogspot.com/-zASU0-nQJPA/WYCuW5iIbiI/AAAAAAAC8t4/Hi4w7rrpbPcESvPQR1zSaVcCUVJDAzAaACKgBGAs/s1600/IMG_20170730_221422.jpg" imageanchor="1"><img border="0" data-original-height="1200" data-original-width="1600" height="480" src="https://4.bp.blogspot.com/-zASU0-nQJPA/WYCuW5iIbiI/AAAAAAAC8t4/Hi4w7rrpbPcESvPQR1zSaVcCUVJDAzAaACKgBGAs/s640/IMG_20170730_221422.jpg" width="640" /></a><br />
